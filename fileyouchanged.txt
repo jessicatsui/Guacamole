@@ -1,3 +1,4 @@
 file i add
 change i made in repo
 second add locally
+delete second repo change
